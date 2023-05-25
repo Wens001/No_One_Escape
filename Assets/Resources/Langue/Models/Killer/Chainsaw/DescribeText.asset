@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af65ee6b0f35f974dba93979a07edbce, type: 3}
+  m_Name: DescribeText
+  m_EditorClassIdentifier: 
+  m_LocaleItems:
+  - m_Language: -1
+    m_Language2:
+      m_Name: English
+      m_Code: en
+      m_Custom: 0
+    m_Value: "The chainsaw sound that sounded all the time made everyone shudder\uFF0Cshredding
+      body gave him unparalleled satisfaction."
+  - m_Language: -1
+    m_Language2:
+      m_Name: Chinese
+      m_Code: zh
+      m_Custom: 0
+    m_Value: "\u65E0\u5904\u4E0D\u5728\u7684\u7535\u952F\u8F70\u9E23\u58F0\u4F7F\u6240\u6709\u4EBA\u6B62\u4E0D\u4F4F\u7684\u98A4\u6817\u3002"

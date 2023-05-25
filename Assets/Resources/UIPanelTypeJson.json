@@ -1,0 +1,12 @@
+{
+	"panelInfoList":
+	[
+		{"panelType":"GamePanel","path":"UIPanel/GamePanel"},
+		{"panelType":"TapToPlay","path":"UIPanel/TapToPlay"},
+		{"panelType":"SettingPanel","path":"UIPanel/SettingPanel"},
+		{"panelType":"BloodEffect","path":"UIPanel/BloodEffect"},
+		{"panelType":"DefeatPanel","path":"UIPanel/DefeatPanel"},
+		{"panelType":"WinPanel","path":"UIPanel/WinPanel"},
+		{"panelType":"JoyStick","path":"UIPanel/JoyStick"}
+	]
+}

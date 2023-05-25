@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b20c37814f1b8054c8d9c367558a627d, type: 3}
+  m_Name: MatProperty 1
+  m_EditorClassIdentifier: 
+  matList:
+  - _GroundColor: {r: 0.34349406, g: 0.8773585, b: 0.5440053, a: 1}
+    _DownColor: {r: 2, g: 0.6745098, b: 0, a: 1}
+    _TopColor: {r: 1.8880861, g: 0.63025653, b: 0, a: 1}
+    _TopY: 1
+    Metallic: 0
+    Smmthness: 0
+  - _GroundColor: {r: 0.7882353, g: 0.56078434, b: 1, a: 1}
+    _DownColor: {r: 0.76862746, g: 0.42745098, b: 1, a: 1}
+    _TopColor: {r: 1, g: 0.8666667, b: 0.84313726, a: 1}
+    _TopY: 1
+    Metallic: 0
+    Smmthness: 0
+  - _GroundColor: {r: 0.21306509, g: 0.7924528, b: 0.5091326, a: 1}
+    _DownColor: {r: 1, g: 0.827451, b: 0, a: 1}
+    _TopColor: {r: 1, g: 0.827451, b: 0, a: 1}
+    _TopY: 1
+    Metallic: 0
+    Smmthness: 0
+  - _GroundColor: {r: 0.6037736, g: 0.6009256, b: 0.6009256, a: 1}
+    _DownColor: {r: 0.7216981, g: 0.8321353, b: 1, a: 1}
+    _TopColor: {r: 0.72156864, g: 0.83137256, b: 1, a: 1}
+    _TopY: 1
+    Metallic: 0
+    Smmthness: 0
+  - _GroundColor: {r: 0.9056604, g: 0.69603527, b: 0.4656461, a: 1}
+    _DownColor: {r: 0.5294118, g: 1, b: 0.9077936, a: 1}
+    _TopColor: {r: 0.5294118, g: 1, b: 0.92003334, a: 1}
+    _TopY: 1
+    Metallic: 0
+    Smmthness: 0
+  - _GroundColor: {r: 0.495283, g: 0.78456813, b: 1, a: 1}
+    _DownColor: {r: 0.5215686, g: 0.5215686, b: 0.5215686, a: 1}
+    _TopColor: {r: 0.51886785, g: 0.51886785, b: 0.51886785, a: 0}
+    _TopY: 1
+    Metallic: 0
+    Smmthness: 0
+  - _GroundColor: {r: 0.6037736, g: 0.6009256, b: 0.6009256, a: 1}
+    _DownColor: {r: 0.7216981, g: 0.8321353, b: 1, a: 1}
+    _TopColor: {r: 0.72156864, g: 0.83137256, b: 1, a: 1}
+    _TopY: 1
+    Metallic: 0
+    Smmthness: 0
+  - _GroundColor: {r: 0.6698113, g: 0.6698113, b: 0.6698113, a: 1}
+    _DownColor: {r: 2.0000005, g: 0.6806285, b: 0, a: 1}
+    _TopColor: {r: 2.0000005, g: 0.6806285, b: 0, a: 1}
+    _TopY: 1
+    Metallic: 0
+    Smmthness: 0
+  - _GroundColor: {r: 0.34349406, g: 0.8773585, b: 0.5440053, a: 1}
+    _DownColor: {r: 2, g: 0.6745098, b: 0, a: 1}
+    _TopColor: {r: 1.8880861, g: 0.63025653, b: 0, a: 1}
+    _TopY: 1
+    Metallic: 0
+    Smmthness: 0
+  index: 5
+  wallMat: {fileID: 2100000, guid: 1e6d784d19efb7f4abda43a55bd825d9, type: 2}
+  groundMat: {fileID: 2100000, guid: a4884ee10102bb749947fa8ff57b1bcc, type: 2}
